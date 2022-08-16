@@ -1,0 +1,26 @@
+.navbar{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYVsNqkJewog0yU2Ji4a5xPtqdTc47RsMqw&usqp=CAU);
+    display: flex;
+}
+.left{
+    padding: 20px;
+    height: 100px;
+    width: 40%;
+   
+}
+.image{
+    height: 90px;
+    width: 90px;
+}
+.right{
+display: flex;
+align-items: center;
+justify-content: space-between;
+width:50%;
+}
+.btn{
+    height:40px;
+    width: 60px;
+    border-radius: 5px;
+    text-decoration: solid;
+}
